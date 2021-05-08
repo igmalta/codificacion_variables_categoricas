@@ -1,2 +1,2 @@
-# codificacion_variables_categoricas
+# Codificacion de variables categóricas
 Funciones para codificación de variables categóricas
